@@ -1,5 +1,7 @@
 # bh3toolRx
 
+用于从网络修改崩坏三的一些工具。
+
 * EnableTouchServer .Net Core
 
   .Net Core平台的代理服务端，可以拦截http并修改开启触摸，引用了FiddlerCore拦截http和我自己的UnityAssetBundleTool.dll修改AssetBundle。
@@ -16,3 +18,7 @@
 * Other
 
   ***UnityAssetBundleTool.dll是基于[AssetStudio](https://github.com/Perfare/AssetStudio)部分代码写的AssetBundle编辑工具，性能差但是勉强能用。***
+
+
+
+-- 参考：bh3tool
