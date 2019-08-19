@@ -5,6 +5,7 @@
 用于从网络修改崩坏三的一些工具。
 
 * EnableTouchServer .Net Core
+* 6Server .Net Core
 
   .Net Core平台的代理服务端，可以拦截http并修改开启触摸，引用了FiddlerCore拦截http和我自己的UnityAssetBundleTool.dll修改AssetBundle。
 
